@@ -1,9 +1,7 @@
 package com.estudos.course.resouces;
 
 import com.estudos.course.entities.Order;
-import com.estudos.course.entities.User;
 import com.estudos.course.services.OrderService;
-import com.estudos.course.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
